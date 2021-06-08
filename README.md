@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @C0l3-3dd
 - 👀 I’m interested back-end
 - 🌱 I’m currently learning Python
+- me gusta el desarrollo back-end, las redes y servidores
 
 
 <!---
